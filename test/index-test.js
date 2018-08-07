@@ -1,4 +1,5 @@
 var index = require("../index.js")
+var message = `${name} is ${height} inches tall`
 
 describe('what-is-a-test', () => {
   describe('Name', () => {
